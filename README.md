@@ -18,4 +18,3 @@ $ ls -la
 ```
 
 `output.pdf` is much bigger than sum of `blank.pdf` + `quince.jpg`
-
